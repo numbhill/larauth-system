@@ -65,7 +65,7 @@
                 <div class="items-center justify-center gap-x-3 space-y-3 sm:flex sm:space-y-0">
                     <a href="https://github.com/numbhill/swish-auth-system"
                        class="block py-2 px-4 text-white font-medium bg-indigo-900 duration-150 hover:bg-indigo-700 active:bg-indigo-900 rounded-lg shadow-lg hover:shadow-none">
-                        This Project's GitHub Repo
+                        Swish-Auth-System GitHub Repo
                     </a>
                     <a href="https://jetstream.laravel.com/introduction.html"
                        class="block py-2 px-4 text-gray-700 hover:text-gray-500 font-medium duration-150 active:bg-gray-100 border rounded-lg">
