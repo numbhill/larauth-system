@@ -1,5 +1,5 @@
 
-![Logo](https://media.licdn.com/dms/image/D4D3DAQGEKSRbp54DmQ/image-scale_127_750/0/1705751240042/swishweb_cover?e=1709136000&v=beta&t=SL81Nk3M48h1irEBPTiK9tnx-ukoYe0RIGWZJPCLHnM)
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://scontent.ftia1-1.fna.fbcdn.net/v/t39.30808-6/420213301_1840329389734381_1079238479284137058_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=2eBypT8cOPwAX8Jod2d&_nc_ht=scontent.ftia1-1.fna&oh=00_AfAm_fIpqis7gPfT_flC31cuAgOvcLSBP-ry7z0LznUqvg&oe=65DBB189" width="200" alt="Laravel Logo"></a></p>
 
 
 # SwishWeb Auth System
