@@ -63,7 +63,7 @@
                     and login buttons located in the top right corner of the page too.
                 </p>
                 <div class="items-center justify-center gap-x-3 space-y-3 sm:flex sm:space-y-0">
-                    <a href="https://github.com/numbhill"
+                    <a href="https://github.com/numbhill/swish-auth-system"
                        class="block py-2 px-4 text-white font-medium bg-indigo-900 duration-150 hover:bg-indigo-700 active:bg-indigo-900 rounded-lg shadow-lg hover:shadow-none">
                         This Project's GitHub Repo
                     </a>
